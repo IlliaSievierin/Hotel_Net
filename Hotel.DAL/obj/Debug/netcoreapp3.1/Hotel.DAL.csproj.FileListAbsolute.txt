@@ -1,0 +1,9 @@
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\bin\Debug\netcoreapp3.1\Hotel.DAL.deps.json
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\bin\Debug\netcoreapp3.1\Hotel.DAL.dll
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\bin\Debug\netcoreapp3.1\Hotel.DAL.pdb
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\obj\Debug\netcoreapp3.1\Hotel.DAL.csproj.AssemblyReference.cache
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\obj\Debug\netcoreapp3.1\Hotel.DAL.AssemblyInfoInputs.cache
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\obj\Debug\netcoreapp3.1\Hotel.DAL.AssemblyInfo.cs
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\obj\Debug\netcoreapp3.1\Hotel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\obj\Debug\netcoreapp3.1\Hotel.DAL.dll
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.DAL\obj\Debug\netcoreapp3.1\Hotel.DAL.pdb

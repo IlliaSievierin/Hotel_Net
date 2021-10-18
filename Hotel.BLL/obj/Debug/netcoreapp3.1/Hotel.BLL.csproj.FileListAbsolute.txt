@@ -1,0 +1,12 @@
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\bin\Debug\netcoreapp3.1\Hotel.BLL.deps.json
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\bin\Debug\netcoreapp3.1\Hotel.BLL.dll
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\bin\Debug\netcoreapp3.1\Hotel.BLL.pdb
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\bin\Debug\netcoreapp3.1\Hotel.DAL.dll
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\bin\Debug\netcoreapp3.1\Hotel.DAL.pdb
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.csproj.AssemblyReference.cache
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.AssemblyInfoInputs.cache
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.AssemblyInfo.cs
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.csproj.CopyComplete
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.dll
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel.BLL\obj\Debug\netcoreapp3.1\Hotel.BLL.pdb

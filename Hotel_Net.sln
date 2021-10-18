@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.PL", "Hotel_Net\Hotel.PL.csproj", "{2F13EDBE-377D-4598-99FA-E4E2604DF696}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.DAL", "Hotel.DAL\Hotel.DAL.csproj", "{DD729216-5C6C-46ED-BCE4-2AFECCD5689E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.BLL", "Hotel.BLL\Hotel.BLL.csproj", "{8A7131EB-6CC4-48C0-9931-A4BF051E6D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F13EDBE-377D-4598-99FA-E4E2604DF696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F13EDBE-377D-4598-99FA-E4E2604DF696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F13EDBE-377D-4598-99FA-E4E2604DF696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F13EDBE-377D-4598-99FA-E4E2604DF696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD729216-5C6C-46ED-BCE4-2AFECCD5689E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD729216-5C6C-46ED-BCE4-2AFECCD5689E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD729216-5C6C-46ED-BCE4-2AFECCD5689E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD729216-5C6C-46ED-BCE4-2AFECCD5689E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7131EB-6CC4-48C0-9931-A4BF051E6D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7131EB-6CC4-48C0-9931-A4BF051E6D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7131EB-6CC4-48C0-9931-A4BF051E6D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7131EB-6CC4-48C0-9931-A4BF051E6D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CDDD044-CE43-4920-A53A-619F2DE41970}
+	EndGlobalSection
+EndGlobal

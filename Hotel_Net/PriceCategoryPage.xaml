@@ -1,0 +1,16 @@
+﻿<Window x:Class="Hotel.PL.PriceCategoryPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel.PL"
+        mc:Ignorable="d"
+        Title="PriceCategoryPage" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="PricaCategoryDataGrid" HorizontalAlignment="Left" Height="310" Margin="70,61,0,0" VerticalAlignment="Top" Width="435" IsReadOnly="True" Loaded="Grid_Loaded"/>
+        <Button Content="Добавить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="550,114,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonAdd_Click"/>
+        <Button Content="Изменить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="550,190,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonUpdate_Click"/>
+        <Button Content="Удалить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="550,268,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonDelete_Click"/>
+
+    </Grid>
+</Window>
