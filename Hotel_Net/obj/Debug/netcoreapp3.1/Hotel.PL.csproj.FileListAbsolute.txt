@@ -76,3 +76,7 @@ C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\ChangeRe
 C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\ReservationPage.g.cs
 C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\ChangeResrvation.baml
 C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\ReservationPage.baml
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\ChangeRoom.g.cs
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\RoomPage.g.cs
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\ChangeRoom.baml
+C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\obj\Debug\netcoreapp3.1\RoomPage.baml

@@ -13,17 +13,20 @@ namespace Hotel_Net
         private ICategoryService categoryService;
         private IPriceCategoryService priceCategoryService;
         private IReservationService reservationService;
+        private IRoomService roomService;
 
         public MainWindow(ICustomerService customerService,
             ICategoryService categoryService,
             IPriceCategoryService priceCategoryService, 
-            IReservationService reservationService)
+            IReservationService reservationService,
+            IRoomService roomService)
         {
             InitializeComponent();
             this.customerService = customerService;
             this.categoryService = categoryService;
             this.priceCategoryService = priceCategoryService;
             this.reservationService = reservationService;
+            this.roomService = roomService;
         }
 
         private void ButtonCustomer_Click(object sender, RoutedEventArgs e)
@@ -48,6 +51,12 @@ namespace Hotel_Net
         {
             var reservationPage = new ReservationPage(reservationService);
             reservationPage.Show();
+        }
+
+        private void ButtonRoom_Click(object sender, RoutedEventArgs e)
+        {
+            var roomPage = new RoomPage(roomService);
+            roomPage.Show();
         }
     }
 }

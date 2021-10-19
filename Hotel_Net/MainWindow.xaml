@@ -12,7 +12,7 @@
         <Button Content="Категории" FontSize="30" HorizontalAlignment="Center" Height="49" Margin="0,199,0,0" VerticalAlignment="Top" Width="360" FontWeight="Bold" BorderBrush="White" Background="#FFEAF196" Click="ButtonCategory_Click"/>
         <Button Content="Цена категорий" FontSize="30" HorizontalAlignment="Center" Height="49" Margin="0,253,0,0" VerticalAlignment="Top" Width="360" FontWeight="Bold" BorderBrush="White" Background="#FFEAF196" Click="ButtonPriceCategory_Click"/>
         <Button Content="Резервации" FontSize="30" HorizontalAlignment="Center" Height="49" Margin="0,307,0,0" VerticalAlignment="Top" Width="360" FontWeight="Bold" BorderBrush="White" Background="#FFEAF196" Click="ButtonReservation_Click"/>
-        <Button Content="Комнаты" FontSize="30" HorizontalAlignment="Center" Height="49" Margin="0,361,0,0" VerticalAlignment="Top" Width="360" FontWeight="Bold" BorderBrush="White" Background="#FFEAF196"/>
+        <Button Content="Комнаты" FontSize="30" HorizontalAlignment="Center" Height="49" Margin="0,361,0,0" VerticalAlignment="Top" Width="360" FontWeight="Bold" BorderBrush="White" Background="#FFEAF196" Click="ButtonRoom_Click"/>
 
     </Grid>
 </Window>

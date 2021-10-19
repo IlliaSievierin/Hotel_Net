@@ -35,6 +35,7 @@ namespace Hotel_Net
             services.AddTransient<ICategoryService, CategoryService>();
             services.AddTransient<IPriceCategoryService, PriceCategoryService>();
             services.AddTransient<IReservationService, ReservationService>();
+            services.AddTransient<IRoomService, RoomService>();
             services.AddTransient<IWorkUnit, EFWorkUnit>();
         }
 
@@ -43,7 +44,9 @@ namespace Hotel_Net
             var mainWindow = new MainWindow(serviceProvider.GetService<ICustomerService>(),
                 serviceProvider.GetService<ICategoryService>(),
                 serviceProvider.GetService<IPriceCategoryService>(),
-                serviceProvider.GetService<IReservationService>());
+                serviceProvider.GetService<IReservationService>(),
+                serviceProvider.GetService<IRoomService>());
+
 
             mainWindow.Show();
         }

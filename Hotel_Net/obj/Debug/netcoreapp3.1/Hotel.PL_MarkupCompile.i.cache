@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\ilyas\source\repos\Hotel_Net\Hotel_Net\App.xaml
-9938250617
+1140168476
 
-13-1075419100
+15137211419
 216-1821529602
-CategoryPage.xaml;ChangeCategory.xaml;ChangeCustomer.xaml;ChangePriceCategory.xaml;ChangeResrvation.xaml;CustomerPage.xaml;MainWindow.xaml;PriceCategoryPage.xaml;ReservationPage.xaml;
+CategoryPage.xaml;ChangeCategory.xaml;ChangeCustomer.xaml;ChangePriceCategory.xaml;ChangeResrvation.xaml;ChangeRoom.xaml;CustomerPage.xaml;MainWindow.xaml;PriceCategoryPage.xaml;ReservationPage.xaml;RoomPage.xaml;
 
 True
 
