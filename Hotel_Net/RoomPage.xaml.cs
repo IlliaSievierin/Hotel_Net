@@ -42,5 +42,16 @@ namespace Hotel.PL
             service.Delete(item.Id);
             RoomDataGrid.ItemsSource = service.GetAll();
         }
+
+        private void ButtonFilter_Click(object sender, RoutedEventArgs e)
+        {
+            var freeRooms = service.GetFreeRooms(Arrival.SelectedDate.Value, Departure.SelectedDate.Value);
+            RoomDataGrid.ItemsSource = freeRooms;
+        }
+
+        private void ButtonAll_Click(object sender, RoutedEventArgs e)
+        {
+            RoomDataGrid.ItemsSource = service.GetAll();
+        }
     }
 }

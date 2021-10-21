@@ -8,9 +8,15 @@
         Title="RoomPage" Height="450" Width="800">
     <Grid Loaded="Grid_Loaded">
         <DataGrid x:Name ="RoomDataGrid" HorizontalAlignment="Left" Height="316" Margin="61,70,0,0" VerticalAlignment="Top" Width="463" IsReadOnly="True"/>
-        <Button Content="Добавить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="554,128,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonAdd_Click"/>
-        <Button Content="Изменить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="554,204,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonUpdate_Click"/>
-        <Button Content="Удалить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="554,282,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonDelete_Click"/>
+        <Button Content="Добавить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="552,170,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonAdd_Click"/>
+        <Button Content="Изменить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="552,249,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonUpdate_Click"/>
+        <Button Content="Удалить" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="552,327,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonDelete_Click"/>
+        <Button Content="Показать свободные" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="364,25,0,0" VerticalAlignment="Top" Width="160" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonFilter_Click"/>
+        <Button Content="Все" FontSize="30" HorizontalAlignment="Left" Height="51" Margin="552,82,0,0" VerticalAlignment="Top" Width="222" FontWeight="Bold" BorderBrush="#FFFFFDFD" Background="#FFEAF196" Click="ButtonAll_Click"/>
+        <DatePicker Name="Arrival" HorizontalAlignment="Left" Height="40" Margin="61,25,0,0" VerticalAlignment="Top" Width="130"/>
+        <DatePicker Name="Departure" HorizontalAlignment="Left" Height="40" Margin="211,25,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="Дата заезда:" HorizontalAlignment="Left" Margin="61,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата выезда:" HorizontalAlignment="Left" Margin="211,0,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
